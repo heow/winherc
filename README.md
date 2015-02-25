@@ -26,7 +26,7 @@ Remember if you were lucky you had 640kb so it wasn't long before finding out it
 
 ### 1.0 CGA2HGC TSR
 
-Living in DOS you don't have many things, among them was multitasking.  This could be faked out by having your program permanently live in memory to be executed by an interrupt, say a key-combination.  It's called Terminate and Stay Resident (TSR), meaning you can be running any program (dBase2 or WordStar) and ALSO run your program.  Two programs at once, nice.
+Living in DOS you don't have many things, among them was multitasking.  This could be faked out by having your program permanently live in memory to be executed by an interrupt, say a key-combination.  It's called Terminate and Stay Resident (TSR), meaning you can be running any program (dBase2 or WordStar) and ALSO run your program.
 
 The first TSR I wrote copied the CGA text to my Herc, allowing you to use TWO MONITORS at the same time!   You could be looking at source (say a header file or dBase table), hit a few keys, copy the text over to the second monitor as a reference, then back to the code.
 
