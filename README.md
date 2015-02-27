@@ -16,7 +16,7 @@ The only downside was that it was a single color, but hey when you're looking at
 
 My friend Bill scored a Color Graphics Adapter (CGA).  Sure color was nice, but the resolution was relatively low and HGC held up nicely with almost double the resolution.
 
-Of course it was Bill's idea to plug the CGA and Herc in at the same time and see what happens.  The result was underwhelming, thankfully it didn't fry our 8088s and the machine booted using CGA, ignoring Herc.
+Of course it was Bill's idea to plug the CGA and Herc into [Herbie Junior, his Leading Edge Model D](http://en.wikipedia.org/wiki/Leading_Edge_Model_D) at the same time and see what happens.  The result was underwhelming, thankfully it didn't fry our 8088s and the machine booted using CGA, ignoring Herc.
 
 Booting between the two, I realized that the Herc "remembered" the text on the screen when the CGA was in operation.  That means it could be addressed directly!
 
