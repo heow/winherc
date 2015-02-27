@@ -24,7 +24,7 @@ At that point I don't know exactly how I figured the Herc's direct addresses but
 
 Remember if you were lucky you had 640kb so it wasn't long before finding out it lived at memory address <pre>B000</pre>
 
-### 1.0 CGA2HGC TSR
+### Version 1.0 CGA2HGC TSR
 
 Living in DOS you don't have many things, among them was multitasking.  This could be faked out by having your program permanently live in memory to be executed by an interrupt, say a key-combination.  It's called Terminate and Stay Resident (TSR), meaning you can be running any program (dBase2 or WordStar) and ALSO run your program.
 
@@ -38,7 +38,7 @@ Bill and I had been using Windows since 2.x  It was ok, but 3.0 was a big depart
 
 With my extra Herc card and amber monitor, what's a boy to do?  Grab a copy of Petzold's _"Programming Windows"_, fire up your Borland compiler and get to work writing a Windows version.
 
-### WINHERC
+### Version 2.0 WINHERC
 
 When running Windows 3.0, WINHERC allows you to copy text to your second monitor connected to a Hercules Graphics Card.  Any text copied to the clipboard is automatically displayed on the second monitor, with blank lines removed to maximize space.
 
