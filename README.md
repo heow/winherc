@@ -8,7 +8,7 @@ The time is the late 80s, I'm not going to go on about how bad it was or how fas
 
 You see, I had a Hercules Graphics Card (HGC/Herc).  All your text was beautifully rendered in amber at an astounding 720x348 resolution:
 
-![Amber Monitor hotlink](https://yourrootsareshowingdearie.files.wordpress.com/2013/03/old-monitor.jpg)
+![leading edge hotlink](http://upload.wikimedia.org/wikipedia/commons/thumb/d/db/LeadingEdge_Front_with_keyboard.JPG/450px-LeadingEdge_Front_with_keyboard.JPG)
 
 I really enjoyed it, the high resolution was much easier on the eyes than the C64 (or Z80), plus you could push it into graphics mode and have plenty of bits.
 
