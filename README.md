@@ -36,15 +36,13 @@ How could life ever get better?
 
 Bill and I had been using Windows since 2.x  It was ok, but 3.0 was a big departure and actually useable.  However graphics was a new realm rendering my text-based TSR useless.
 
-With my extra Herc card and amber monitor, what's a boy to do?  Grab a copy of Petzold's _"Programming Windows"_, fire up your Borland compiler and get to work writing a Windows version.
+With my extra Herc card and amber monitor, what's a boy to do?  Grab a copy of Petzold's _"Programming Windows"_, fire up your Borland compiler and get to work writing a Windows version.  While doing so I'd run into an interesting problem which I wrote to Borland about, they actually had an engineer call me to debug what their compiler was outputting and fix the issue! That's not exactly everyday service and it was a sad day when they closed shop.
 
 ### Version 2.0 WINHERC
 
 When running Windows 3.0, WINHERC allows you to copy text to your second monitor connected to a Hercules Graphics Card.  Any text copied to the clipboard is automatically displayed on the second monitor, with blank lines removed to maximize space.
 
 Nice.
-
-The program is pretty short, if you compare the source probably 80% of the boilerplate is Petzold's _Hello World_.  :-)
 
 I used this software daily for a long time.  It's been  uploaded it to BBSes as well as the FTP sites on the nascent Internet.
 
