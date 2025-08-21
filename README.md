@@ -30,7 +30,7 @@ Living in DOS you don't have many things, among them was multitasking.  This cou
 
 The first TSR I wrote copied the CGA text to my Herc, allowing you to use TWO MONITORS at the same time!   You could be looking at source (say a header file or dBase table), hit a few keys, copy the text over to the second monitor as a reference, then back to the code.
 
-**2025 Update** this code has been found and is in the `cga2hgc` directory!  It lives up to my spartan naming convention and is `KEY.C` as it is launched with CTRL SHIFT ALT.
+**2025 update:** this code has been found and is in the `cga2hgc` directory!  It lives up to my spartan naming convention, is `KEY.C` as it is launched with CTRL SHIFT ALT.
 
 Another version named `KEY02.C` sent the output to your `COM` port at 9600 baud, perfect if you had a VT100.
 
